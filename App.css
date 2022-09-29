@@ -1,0 +1,19 @@
+#cardx{
+  width: 15rem;
+}
+
+h1{
+  color: rgb(96, 247, 9);
+  font-style: italic;
+  text-align: center;
+  background-color: rgb(18, 22, 221);
+  font-weight: 300;
+
+}
+/* .btn{
+  margin: 40% 40% 40% 10%;
+} */
+.w-100 {
+text-align: center;
+text-decoration-color: chartreuse;
+}
